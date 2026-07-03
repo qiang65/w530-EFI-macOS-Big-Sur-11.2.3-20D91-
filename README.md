@@ -3,3 +3,4 @@ My ThinkPad W530 Specs: i7-3740QM,  NVIDIA Quadro K1000M
 声卡无法用applealc,改用voodoo
 只能用集显，独显需要禁用
 蓝牙正常
+光驱位的SSD苹果系统能认盘，但不能读和写
