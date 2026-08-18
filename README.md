@@ -1,3 +1,4 @@
+EFI用opencore生成,如果用sequoia系统，请配套opencore-patcher更新驱动。
 My ThinkPad W530 Specs: i7-3740QM,  NVIDIA Quadro K1000M
 无线网卡是N6300 驱动正常
 声卡无法用applealc,改用voodoo
@@ -7,3 +8,4 @@ My ThinkPad W530 Specs: i7-3740QM,  NVIDIA Quadro K1000M
 
 2026-8-18
 更新系统为sequoia 15.7.7,声卡已修复(alcid40)，刷了去名单bios,网卡升级成intel ax210,用Airportltlwm能显示硬件，但无法添加网络，改用itlwm加heliport正常使用，其它硬件不变，蓝牙无法驱动。
+理论上向下兼容旧版本系统，请自行测试。
